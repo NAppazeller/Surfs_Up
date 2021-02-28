@@ -16,6 +16,6 @@ A potential outside investor for a new surf and ice cream shop has requested add
 
 ## Summary: 
 
-Given the relatively consistent temperatures in the months of June and December the success of a surf and ice cream shop appear likely. However, in addition to analyzing the temperatures for June and December it's recommended a thorough year-round analysis be performed as well. It would also be prudent to include a wind analysis to ensure the island can offer optimal surfing conditions.
+Given the relatively consistent temperatures in the months of June and December the success of a surf and ice cream shop appear likely. However, in addition to analyzing the temperatures for June and December it's recommended a thorough year-round temperature analysis be performed as well. It would also be prudent to include a wind analysis to ensure the island can offer optimal surfing conditions.
 
 
